@@ -19,6 +19,11 @@
 ![left](images/tyler.jpg)
 
 ---
+# Before we start...
+
+## https://github.com/picwell/intro_pandas
+
+---
 # What is Pandas?
 
 - Tool for manipulating and analyzing tabular datasets and timeseries
