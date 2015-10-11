@@ -1,6 +1,6 @@
 # Intro to Pandas
 ### PyLadies DC
-### February 21, 2015
+### October 11, 2015
 
 ![](images/panda1.jpg)
 
@@ -10,13 +10,6 @@
 ###@csojinb
 
 ![right](images/clara.jpg)
-
----
-# Tyler Jorgensen
-
-###[doesn't use Twitter]
-
-![left](images/tyler.jpg)
 
 ---
 # Before we start...
@@ -40,7 +33,7 @@
 ---
 # How do you use it?
 
-## [Tutorial](http://nbviewer.ipython.org/github/picwell/intro_pandas/blob/master/pandas_tutorial.ipynb)
+## [Tutorial](http://www.github.com/picwell/intro_pandas/blob/master/pandas_tutorial.ipynb)
 
 ![](images/redpanda.jpg)
 
@@ -58,7 +51,7 @@ Pandas data structures based on numpy arrays, so they play well with other Pytho
 ---
 # How do you integrate it?
 
-## [Case study](http://nbviewer.ipython.org/github/picwell/intro_pandas/blob/master/pandas_case_study.ipynb)
+## [Case study](http://www.github.com/picwell/intro_pandas/blob/master/pandas_case_study.ipynb)
 
 ![](images/panda2.jpg)
 
@@ -70,5 +63,5 @@ Pandas data structures based on numpy arrays, so they play well with other Pytho
 - [David Rojas Pandas lessons](https://bitbucket.org/hrojas/learn-pandas)
 
 ---
-# [We're hiring!](http://www.picwell.com/careers)
+# [We're hiring!](http://nerds.picwell.com/)
 
